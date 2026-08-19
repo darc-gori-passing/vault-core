@@ -1,0 +1,8 @@
+{
+  "ethereum": {
+    "Vault": "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
+    "VaultConfigurator": "0x64b761D848206f447Fe2dd461b0c635Ec39EbB27",
+    "PriceOracle": "0x54586bE62E3c3580375aE3723C145253060Ca0C2",
+    "Treasury": "0x73b047fe6337183A454c5217241D780a932777bD"
+  }
+}
